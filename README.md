@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi there 😎
 
-<!--
-**cpifano/cpifano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Camilo Pifano** a web developer. I'm currently working in [opendicom](http://opendicom.com) (Uruguay) as a developer and technician, providing support to various health systems inside and outside the country.
 
-Here are some ideas to get you started:
+I consider myself a proactive person, with a restless spirit and  that is why I am constantly in search of knowledge of the latest trends in information technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+For more information about me you can check my [CV](https://cpifano.github.io/).
+
+
+
+---
+
+### Thank you for your visit
